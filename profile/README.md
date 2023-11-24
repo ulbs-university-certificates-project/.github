@@ -1,1 +1,1 @@
-![Certificate Request Process](https://github.com/ulbs-university-certificates-project/.github/blob/master/certificate-request-process.svg)
+![Certificate Request Process](https://github.com/ulbs-university-certificates-project/.github/blob/master/profile/certificate-request-process.svg)
